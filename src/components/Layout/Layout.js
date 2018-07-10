@@ -3,6 +3,7 @@ import Toolbar from '../Navigation/Toolbar/Toolbar';
 import Aux from '../../hoc/Aux';
 import classes from './Layout.css';
 import SideDrawer from '../Navigation/SideDrawer/SideDrawer';
+
 class Layout extends Component {
   state= {
     showSideDrawer: false
