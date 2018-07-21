@@ -12,7 +12,7 @@ class ContactData extends Component  {
                 elementType: 'input',
                 elementConfig: {
                     type: 'text',
-                    placeHolder: 'Your Name'
+                    placeholder: 'Your Name'
                 },
                 value: ''
             },
@@ -20,7 +20,7 @@ class ContactData extends Component  {
                 elementType: 'input',
                 elementConfig: {
                     type: 'text',
-                    placeHolder: 'Street'
+                    placeholder: 'Street'
                 },
                 value: ''
             },
@@ -28,7 +28,7 @@ class ContactData extends Component  {
                 elementType: 'input',
                 elementConfig: {
                     type: 'text',
-                    placeHolder: 'ZIP Code'
+                    placeholder: 'ZIP Code'
                 },
                 value: ''
             },
@@ -36,7 +36,7 @@ class ContactData extends Component  {
                 elementType: 'input',
                 elementConfig: {
                     type: 'text',
-                    placeHolder: 'Country'
+                    placeholder: 'Country'
                 },
                 value: ''
             },
@@ -44,7 +44,7 @@ class ContactData extends Component  {
                 elementType: 'input',
                 elementConfig: {
                     type: 'email',
-                    placeHolder: 'Your E-Mail'
+                    placeholder: 'Your E-Mail'
                 },
                 value: ''
             },
